@@ -348,9 +348,3 @@ const JingchangWallet = require('jcc_wallet').JingchangWallet
  * @memberof JingchangWallet
 */
 ```
-
-## Deprecated API
-
-***Deprecated api will be removed after 2020.1.1, please update asap.***
-
-For more see [deprecatedAPI](https://github.com/JCCDex/jcc_wallet/blob/master/deprecatedAPI.md).
